@@ -36,7 +36,13 @@ We do not provide <strong>source codes</strong> and <strong>image files</strong>
 ## 🐥 100-points problems
 #### Problems that can be solved using known theories and tools.
 
-TBD
+| No | Problems | Keyword | Score | Main Author |
+|----|----------|---------|-------|-------------|
+|101 | <strong>[Where is his money?](./write-up/[DogeCoin][101].pdf)</strong> | Assembly, Reversing | 100 | Dongbin Oh |
+|102 | <strong>[No more ransom](./write-up/[DogeCoin][102].pdf)</strong> | Parsing, Graphics | 100 | Donghyun Kim (ZIGBANG) |
+|103 | <strong>[Reset Your PC](./write-up/[DogeCoin][103].pdf)</strong> | Malware, Download | 100 | Yeongwoong Kim |
+|104 | <strong>[Find Secret Documents](./write-up/[DogeCoin][104].pdf)</strong> | Docker, Memory, Dataleak | 100 | Yeongwoong Kim |
+|151    | <strong>[Malicious Service](./write-up/[DogeCoin][151].pdf)</strong> | Malware, Registry | 0 | All |
 
 ## 🦩 200-points problems
 #### Problems that can be solved by analyzing more than 2 artifacts.
@@ -51,7 +57,8 @@ TBD
 ## 🐉 400-points problems
 #### Problems requiring the development of forensic tool.
 
-TBD
+Detecting Object Removal #AI_Eraser
+Find suspicious files #Anti_forensics #Data_history
 
 ## 🚀 500-points problems
 #### The solutions of this problems are not published.
