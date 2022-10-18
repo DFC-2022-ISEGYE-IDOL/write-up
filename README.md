@@ -89,7 +89,6 @@ If you want to contact us, please send at this [email](mailto:dfc-isegyeidol@goo
     <img src="./res/contributor.png" height="64"/>
 </p>
 
-
 ## 🎙 Challenge Organizer
 
 <img src="./res/kiisc_logo.png" height="64">
