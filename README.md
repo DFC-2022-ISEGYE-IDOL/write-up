@@ -42,7 +42,7 @@ We do not provide <strong>source codes</strong> and <strong>image files</strong>
 | 102 | <strong>[No more ransom](./write-up/[ISEGYE_IDOL][102].pdf)</strong> | Ransomware | 100 | Eungchang Lee |
 | 103 | <strong>[Reset Your PC](./write-up/[ISEGYE_IDOL][103].pdf)</strong> | Windows_re | 100 | Sojeong Kim & Eungchang Lee |
 | 104 | <strong>[Find Secret Documents](./write-up/[ISEGYE_IDOL][104].pdf)</strong> | Anti, Hidden | 50 | Mingyu Sung & Eungchang Lee |
-| 105 | <strong>[Who leaked the secret?](./write-up/[ISEGYE_IDOL][105].pdf)</strong> | Classification, Brightness | 50 | Mingyu Sung |
+| 105 | <strong>[Who leaked the secret?](./write-up/[ISEGYE_IDOL][105].pdf)</strong> | Classification, Brightness | 50 | Mingyu Seong |
 | 106 | <strong>[Is there more than meets the eye?](./write-up/[ISEGYE_IDOL][106].pdf)</strong> | Dataleak, Photo | 100 | Sojeong Kim |
 | 151 | <strong>[Malicious Service](./write-up/[ISEGYE_IDOL][151].pdf)</strong> | Malware, Registry | 0 | All |
 | 152 | <strong>[Detect illegal video](./write-up/[ISEGYE_IDOL][152].pdf)</strong> | Media | 150 | Sojeong Kim |
