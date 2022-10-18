@@ -1,6 +1,11 @@
 <p align='center'><img src="./res/isedol_logo.png" height="256"></p>
 
 <h1 align="center">ISEGYE IDOL's WriteUp</a></h1>
+
+<p align="center">
+    <img src="./res/contributor.png" height="64"/>
+</p>
+
 <p align="center">
   <em>KIISC Digital Forensics Challenge 2022</br>
   <em>The write-up of the participating team
@@ -84,10 +89,6 @@ The problems of this score was not given! 🤔
 
 ## 📝 Author
 If you want to contact us, please send at this [email](mailto:dfc-isegyeidol@googlegroups.com).
-
-<p align="center">
-    <img src="./res/contributor.png" height="64"/>
-</p>
 
 ## 🎙 Challenge Organizer
 
