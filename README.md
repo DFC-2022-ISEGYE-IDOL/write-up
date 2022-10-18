@@ -38,14 +38,14 @@ We do not provide <strong>source codes</strong> and <strong>image files</strong>
 
 | No | Problems | Keyword | Score | Main Author |
 |----|----------|---------|-------|-------------|
-| 101 | <strong>[Where is his money?](./write-up/[ISEGYE_IDOL][101].pdf)</strong> | Wallet | 100 | Dongbin Oh |
-| 102 | <strong>[No more ransom](./write-up/[ISEGYE_IDOL][102].pdf)</strong> | Ransomware | 100 | Donghyun Kim (ZIGBANG) |
-| 103 | <strong>[Reset Your PC](./write-up/[ISEGYE_IDOL][103].pdf)</strong> | Windows_re | 100 | Yeongwoong Kim |
-| 104 | <strong>[Find Secret Documents](./write-up/[ISEGYE_IDOL][104].pdf)</strong> | Anti, Hidden | 50 | Yeongwoong Kim |
-| 105 | <strong>[Who leaked the secret?](./write-up/[ISEGYE_IDOL][105].pdf)</strong> | Classification, Brightness | 50 | Yeongwoong Kim |
-| 106 | <strong>[Is there more than meets the eye?](./write-up/[ISEGYE_IDOL][106].pdf)</strong> | Dataleak, Photo | 100 | Yeongwoong Kim |
+| 101 | <strong>[Where is his money?](./write-up/[ISEGYE_IDOL][101].pdf)</strong> | Wallet | 100 | Sojeong Kim |
+| 102 | <strong>[No more ransom](./write-up/[ISEGYE_IDOL][102].pdf)</strong> | Ransomware | 100 | Eungchang Lee |
+| 103 | <strong>[Reset Your PC](./write-up/[ISEGYE_IDOL][103].pdf)</strong> | Windows_re | 100 | Sojeong Kim & Eungchang Lee |
+| 104 | <strong>[Find Secret Documents](./write-up/[ISEGYE_IDOL][104].pdf)</strong> | Anti, Hidden | 50 | Mingyu Sung & Eungchang Lee |
+| 105 | <strong>[Who leaked the secret?](./write-up/[ISEGYE_IDOL][105].pdf)</strong> | Classification, Brightness | 50 | Mingyu Sung |
+| 106 | <strong>[Is there more than meets the eye?](./write-up/[ISEGYE_IDOL][106].pdf)</strong> | Dataleak, Photo | 100 | Sojeong Kim |
 | 151 | <strong>[Malicious Service](./write-up/[ISEGYE_IDOL][151].pdf)</strong> | Malware, Registry | 0 | All |
-| 152 | <strong>[Detect illegal video](./write-up/[ISEGYE_IDOL][152].pdf)</strong> | Media | 150 | All |
+| 152 | <strong>[Detect illegal video](./write-up/[ISEGYE_IDOL][152].pdf)</strong> | Media | 150 | Sojeong Kim |
 
 ## 🦩 200-points problems
 #### Problems that can be solved by analyzing more than 2 artifacts.
@@ -53,29 +53,29 @@ We do not provide <strong>source codes</strong> and <strong>image files</strong>
 | No | Problems | Keyword | Score | Main Author |
 |----|----------|---------|-------|-------------|
 | 201 | <strong>[Leakage of Confidential Files](./write-up/[ISEGYE_IDOL][201].pdf)</strong> | Share, Private_number | 170 | Dongbin Oh |
-| 202 | <strong>[Forged Contract](./write-up/[ISEGYE_IDOL][202].pdf)</strong> | Yellow | 200 | Donghyun Kim (ZIGBANG) |
-| 203 | <strong>[Code Audit](./write-up/[ISEGYE_IDOL][203].pdf)</strong> | Smart_contract | 200 | Yeongwoong Kim |
-| 204 | <strong>[SPY's sabotage](./write-up/[ISEGYE_IDOL][204].pdf)</strong> | Device | 200 | Yeongwoong Kim |
-| 205 | <strong>[Detecting Object Removal](./write-up/[ISEGYE_IDOL][205].pdf)</strong> | Sleep, Memory | 200 | All |
+| 202 | <strong>[Forged Contract](./write-up/[ISEGYE_IDOL][202].pdf)</strong> | Yellow | 200 | Minkyu Mingyu Seong & Donghyun HA |
+| 203 | <strong>[Code Audit](./write-up/[ISEGYE_IDOL][203].pdf)</strong> | Smart_contract | 200 |  Donghyun HA |
+| 204 | <strong>[SPY's sabotage](./write-up/[ISEGYE_IDOL][204].pdf)</strong> | Device | 200 | Mingyu Seong  |
+| 205 | <strong>[Detecting Object Removal](./write-up/[ISEGYE_IDOL][205].pdf)</strong> | Sojeong Kim | 200 | All |
 
 ## 🦉 300-points problems
 #### Problems requiring analysis know-how as they may be time consuming or inaccurate with known tools.
 
 | No | Problems | Keyword | Score | Main Author |
 |----|----------|---------|-------|-------------|
-| 301 | <strong>[Hidden Message](./write-up/[ISEGYE_IDOL][301].pdf)</strong> | Bit, Crc32, Color_table | 300 | Dongbin Oh |
-| 302 | <strong>[Find evidences of a conspiracy](./write-up/[ISEGYE_IDOL][302].pdf)</strong> | Document, Mail | 20 | Donghyun Kim (ZIGBANG) |
-| 303 | <strong>[Recovery and Restoration](./write-up/[ISEGYE_IDOL][303].pdf)</strong> | 2D_Code, QR, Dot | 300 | Yeongwoong Kim |
-| 304 | <strong>[What happened to my PC](./write-up/[ISEGYE_IDOL][304].pdf)</strong> | Memory, IR | 270 | Yeongwoong Kim |
-| 305 | <strong>[Mission Impossible](./write-up/[ISEGYE_IDOL][305].pdf)</strong> | Message, Cryptography | 250 | All |
+| 301 | <strong>[Hidden Message](./write-up/[ISEGYE_IDOL][301].pdf)</strong> | Bit, Crc32, Color_table | 300 | Mingyu Seong |
+| 302 | <strong>[Find evidences of a conspiracy](./write-up/[ISEGYE_IDOL][302].pdf)</strong> | Document, Mail | 20 | All |
+| 303 | <strong>[Recovery and Restoration](./write-up/[ISEGYE_IDOL][303].pdf)</strong> | 2D_Code, QR, Dot | 300 | Mingyu Seong |
+| 304 | <strong>[What happened to my PC](./write-up/[ISEGYE_IDOL][304].pdf)</strong> | Memory, IR | 270 | All |
+| 305 | <strong>[Mission Impossible](./write-up/[ISEGYE_IDOL][305].pdf)</strong> | Message, Cryptography | 250 | Donghyun HA |
 
 ## 🐉 400-points problems
 #### Problems requiring the development of forensic tool.
 
 | No | Problems | Keyword | Score | Main Author |
 |----|----------|---------|-------|-------------|
-| 401 | <strong>[Detecting Object Removal](./write-up/[ISEGYE_IDOL][401].pdf)</strong> | AI_Eraser | 340 | Dongbin Oh |
-| 402 | <strong>[Find suspicious files](./write-up/[ISEGYE_IDOL][402].pdf)</strong> | Anti_forensics, Data_history | 250 | Donghyun Kim (ZIGBANG) |
+| 401 | <strong>[Detecting Object Removal](./write-up/[ISEGYE_IDOL][401].pdf)</strong> | AI_Eraser | 340 | Donghyun HA & Sojeong Kim |
+| 402 | <strong>[Find suspicious files](./write-up/[ISEGYE_IDOL][402].pdf)</strong> | Anti_forensics, Data_history | 250 | Eungchang Lee & Sojeong Kim |
 
 ## 🚀 500-points problems
 #### The solutions of this problems are not published.
