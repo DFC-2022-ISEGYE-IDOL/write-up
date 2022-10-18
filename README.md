@@ -56,7 +56,7 @@ We do not provide <strong>source codes</strong> and <strong>image files</strong>
 | 202 | <strong>[Forged Contract](./write-up/[ISEGYE_IDOL][202].pdf)</strong> | Yellow | 200 | Mingyu Seong & Donghyun HA |
 | 203 | <strong>[Code Audit](./write-up/[ISEGYE_IDOL][203].pdf)</strong> | Smart_contract | 200 |  Donghyun HA |
 | 204 | <strong>[SPY's sabotage](./write-up/[ISEGYE_IDOL][204].pdf)</strong> | Device | 200 | Mingyu Seong |
-| 205 | <strong>[Detecting Object Removal](./write-up/[ISEGYE_IDOL][205].pdf)</strong> | Sojeong Kim | 200 | All |
+| 205 | <strong>[Detecting Object Removal](./write-up/[ISEGYE_IDOL][205].pdf)</strong> | Sleep, Memory | 200 | Sojeong Kim |
 
 ## 🦉 300-points problems
 #### Problems requiring analysis know-how as they may be time consuming or inaccurate with known tools.
