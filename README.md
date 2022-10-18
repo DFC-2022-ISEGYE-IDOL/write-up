@@ -3,7 +3,7 @@
 <h1 align="center">ISEGYE IDOL's WriteUp</a></h1>
 <p align="center">
   <em>KIISC Digital Forensics Challenge 2022</br>
-  <em>The write-up of the participating team
+  <em>The write-up of the top university student team.
 </p>
 
 <p align="center">
@@ -27,7 +27,16 @@ This challenge consists of 20 problems and they have 100, 200, 300, 400, or 4~5 
 – Sharing answers or codes is not permitted
 
 ## 🎉 Result
-TBD
+This is the final score and ranking of the top 5 teams.
+To check the scores of more teams, access the [rank page](https://dfchallenge.org/2022-rank/).
+
+| Rank | Name | Final Score | Nation |
+|----|----------|---------|---------|
+|🥇  | <strong>asserTiVe</strong> | 3940 | Korea (South) |
+|🥈  | <strong>Please_LTV_99</strong> | 3635 | Korea (South) |
+|🥉  | <strong>donkey</strong> | 3630 | Korea (South) |
+|4   | <strong>BirdLab</strong> | 3350 | Korea (South) |
+|4   | <strong>ISEGYE_IDOL</strong> | 3350 | Korea (South) |
 
 ## ⚔️ WriteUp
 
